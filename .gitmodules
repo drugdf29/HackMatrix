@@ -1,3 +1,3 @@
 [submodule "tracy"]
 	path = tracy
-	url = git@githubfast.com:wolfpld/tracy.git
+	url = https://githubfast.com/wolfpld/tracy.git
